@@ -1,6 +1,6 @@
 
 cff-version: 1.2.0
-message: "If you use this project, please cite its author and the archived version on Zenodo when available."
+message: "If you use this project, please cite its author and the specific version of the software or materials used. Please use the Zenodo DOI when available."
 title: "Mathematics, Stochastics & Music"
 type: software
 
@@ -8,6 +8,7 @@ authors:
   - family-names: "Gamboa Pérez"
     given-names: "María"
     orcid: "https://orcid.org/0000-0003-1184-1115"
+    affiliation: "Universidad Complutense de Madrid (UCM)"
 
 abstract: >
   An open educational and computational project exploring the
