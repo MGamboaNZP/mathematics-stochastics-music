@@ -84,3 +84,9 @@ For questions or collaboration proposals, please use the GitHub Issues section.
 ---
 
 *Mathematics can be heard. Randomness can become music.*
+
+## Related Artistic Practice
+
+**Mathematics, Stochastics & Music** is also connected to the artistic practice of NonZero!, exploring the relationships between mathematical structures, stochastic processes, sound experimentation and visual art.
+
+Discover the artistic work at [nonzeromarymotto.com](https://nonzeromarymotto.com/).
