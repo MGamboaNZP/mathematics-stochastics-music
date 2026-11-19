@@ -49,11 +49,15 @@ An introduction to stochastic approaches to musical rhythm.
 
 ## Citation
 
-If you use, adapt or build upon this project, please acknowledge its author.
+If you use this project, please cite the specific version using its version-specific DOI:
 
-The repository includes a `CITATION.cff` file with the project's citation metadata.
+**Gamboa Pérez, M. (2026).** *Mathematics, Stochastics & Music* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24368449
 
-A persistent citation with a DOI will be provided through Zenodo once the first version is archived.
+To cite the project as a whole, regardless of the version used, please use the concept DOI:
+
+https://doi.org/10.5281/zenodo.24368448
+
+The citation metadata are also available in the `CITATION.cff` file.
 
 ## License
 
