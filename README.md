@@ -54,9 +54,20 @@ If you use, adapt or build upon this project, please acknowledge its author.
 
 A persistent citation with a DOI will be provided through Zenodo once the first version is archived.
 
+
 ## License
 
-The source code and educational materials will be distributed under their respective open licenses. See the license files in this repository.
+This project follows an open licensing policy:
+
+- **Educational and creative materials**, including original MIDI files,
+  musical sequences and generated audio: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Source code and software**: MIT License (see `LICENSE-CODE`).
+
+Attribution to the author, María Gamboa Pérez, is required when reusing
+or adapting project materials.
+
+ORCID: https://orcid.org/0000-0003-1184-1115
+
 
 ## Contact and academic profile
 
