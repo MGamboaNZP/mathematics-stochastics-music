@@ -1,6 +1,6 @@
 
 cff-version: 1.2.0
-message: "If you use this project, please cite its author and the specific version of the software or materials used. Please use the Zenodo DOI when available."
+message: "If you use this project, please cite the specific version using its version-specific DOI. To cite the project as a whole, use the concept DOI."
 title: "Mathematics, Stochastics & Music"
 version: "1.0.0"
 date-released: "2026-11-19"
@@ -28,4 +28,8 @@ keywords:
   - Music education
 
 repository-code: "https://github.com/MGamboaNZP/mathematics-stochastics-music"
-url: "https://github.com/MGamboaNZP/mathematics-stochastics-music"
+url: "https://doi.org/10.5281/zenodo.24368449"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24368448"
+    description: "Concept DOI: all versions of the project"
