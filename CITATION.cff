@@ -1,0 +1,28 @@
+
+cff-version: 1.2.0
+message: "If you use this project, please cite its author and the archived version on Zenodo when available."
+title: "Mathematics, Stochastics & Music"
+type: software
+
+authors:
+  - family-names: "Gamboa Pérez"
+    given-names: "María"
+    orcid: "https://orcid.org/0000-0003-1184-1115"
+
+abstract: >
+  An open educational and computational project exploring the
+  connections between mathematics, probability, stochastic processes
+  and music through computational experiments, generative algorithms
+  and interactive educational resources.
+
+keywords:
+  - Mathematics and music
+  - Probability distributions
+  - Stochastic processes
+  - Generative music
+  - Computational music
+  - R programming
+  - Music education
+
+repository-code: "https://github.com/MGamboaNZP/mathematics-stochastics-music"
+url: "https://github.com/MGamboaNZP/mathematics-stochastics-music"
