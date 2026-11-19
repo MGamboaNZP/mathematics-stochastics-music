@@ -1,19 +1,18 @@
-
 # Shiny Application · Workshop 1
 
-Interactive application for generating stochastic melodies using probability distributions.
+Interactive application for generating stochastic melodies using probability distributions and musical probability profiles.
 
 The application is part of **Mathematics, Stochastics & Music**, an open educational and computational project by María Gamboa Pérez.
 
 ## Launch the application
 
-**[Open Workshop 1 · Melody Generation](https://mgamboa.shinyapps.io/taller_1/)**
+[**Open Workshop 1 · Melody Generation**](https://mgamboa.shinyapps.io/taller_1/)
 
-The application allows users to explore how different probability distributions generate musical melodies.
+The application allows users to explore how different probability distributions and musical probability profiles can generate melodic sequences.
 
 ## Features
 
-- Discrete probability distributions.
+- Discrete uniform distribution.
 - Binomial distribution.
 - Poisson distribution.
 - Geometric distribution.
@@ -42,13 +41,30 @@ shiny::runApp()
 
 **María Gamboa Pérez**
 
-Universidad Complutense de Madrid (UCM)
+Department of Statistics and Data Science  
+Faculty of Statistical Studies  
+Complutense University of Madrid (UCM), Spain
 
 [ORCID: 0000-0003-1184-1115](https://orcid.org/0000-0003-1184-1115)
 
+## Citation
+
+If you use, adapt or build upon this application, please acknowledge its author.
+
+For citation information, see the [`CITATION.cff`](../../CITATION.cff) file in the main repository.
+
+A DOI will be provided through Zenodo when the first version of the project is archived.
+
 ## License
 
-The application source code is distributed under the MIT License.
+The application source code is distributed under the **MIT License**.
 
-See the repository's `LICENSE-CODE` file.
+See the [`LICENSE-CODE`](../../LICENSE-CODE) file in the main repository.
 
+The educational materials and original creative resources of the project are distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+These licenses apply to original contributions created for the project. Third-party materials remain subject to their respective copyright and licensing conditions.
+
+## Main repository
+
+[Mathematics, Stochastics & Music](https://github.com/MGamboaNZP/mathematics-stochastics-music)
