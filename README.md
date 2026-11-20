@@ -89,4 +89,4 @@ For questions or collaboration proposals, please use the GitHub Issues section.
 
 **Mathematics, Stochastics & Music** is also related to the independent artistic practice of **NonZero!**, which explores connections between mathematical structures, stochastic processes, sound experimentation and visual art.
 
-Discover the artistic work at [nonzeromarymotto.com](https://nonzeromarymotto.com/).
+
